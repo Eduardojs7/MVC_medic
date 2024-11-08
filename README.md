@@ -42,3 +42,6 @@ Este proyecto se centra en la creación de una aplicación MVC en .NET 8 para ge
 
 ### Optimizar el rendimiento con Lazy Loading y Caching
 - Aplica **Lazy Loading** para retrasar la carga de datos hasta que realmente se necesiten y usa **caching** cuando sea apropiado para reducir las llamadas repetidas a la base de datos.
+
+# video de corrida
+https://www.loom.com/share/0bc47e8ab1a64ac79a5461cb388376ed?sid=369f62f8-d692-49ed-9932-ffe5d74c7589
